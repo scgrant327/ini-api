@@ -5,7 +5,7 @@
   "author": "Mator",
   "homepage": "https://github.com/matortheeternal/ini-api",
   "license": "MIT",
-  "main": "./dist/index.js",
+  "main": "index.js",
   "keywords": [
     "ini",
     "stringify",
